@@ -1,3 +1,3 @@
-module github.com/wodby/gotpl
+module github.com/inrage/gotpl
 
-go 1.15
+go 1.23
